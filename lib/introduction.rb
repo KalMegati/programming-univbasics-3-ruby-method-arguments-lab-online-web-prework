@@ -8,4 +8,4 @@ introduction("Dan")
 
 def introduction_with_language_optional(name,language)
   if language == nil
-    puts "Hi, my name is #{name} and I'm learning to program"
+    puts "
